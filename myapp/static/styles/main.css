@@ -32,3 +32,9 @@ body {
     text-decoration: none;
     color: #D2EDDB;
 }
+.input {
+    background: wheat;
+    padding: 10px;
+    text-align: center;
+    display: block;
+}
